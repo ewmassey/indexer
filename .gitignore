@@ -1,0 +1,8 @@
+*.pyc
+
+enwiki-latest*
+
+venv/
+elasticsearch-2.2.0/
+
+.idea/

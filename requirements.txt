@@ -1,1 +1,1 @@
-mwlib
+elasticsearch==2.2.0

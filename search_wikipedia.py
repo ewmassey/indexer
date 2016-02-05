@@ -1,40 +1,52 @@
+"""This script makes the search to wikipedia by passing the search keyword as the only argument."""
 import sys
 
 from elasticsearch import Elasticsearch
 
-WIKIPEDIA_URL = 'https://en.wikipedia.org/wiki/'
+import config
 
 
 def title_to_url(title):
-
+    """Takes the article title and turns it into a wikipedia URL"""
     title = title.replace(' ', '_')
-    return WIKIPEDIA_URL + title
+    return config.WIKIPEDIA_URL + title
 
-if __name__ == "__main__":
 
-    if len(sys.argv) < 2:
-        print "A path to the filename at positional argument 1 is required."
-        sys.exit(1)
-
-    keyword = sys.argv[1]
-
+def search(keyword):
+    """Performs the search against elasticsearch."""
     es = Elasticsearch()
-
-    result = es.search(index='wikipedia', body={
+    result = es.search(index=config.ELASTIC_SEARCH_INDEX, body={
         'query': {
-            'match': {
-                'title': {
-                    'query': keyword,
-                    'fuzziness': 2,
-                    'prefix_length': 1
-                }
+            'multi_match': {
+                'query': keyword,
+                'fuzziness': 1,
+                'prefix_length': 1,
+                'fields': ['title^10', 'body']
             }
         }
     })
 
+    results = []
     for hit in result['hits']['hits']:
-        print hit['_score'], title_to_url(hit['_source']['title'])
+        results.append((hit['_score'], title_to_url(hit['_source']['title'])))
+    return results
 
-    # Total number of hits
-    # link to the page...how do i get this?
-    # relevance
+
+def search_and_print(keyword):
+    """Used for calling the search function and printing the results."""
+    print "Searched for:", keyword
+    for score, url in search(keyword):
+
+        print score, url
+    print
+
+
+if __name__ == "__main__":
+
+    if len(sys.argv) < 2:
+        print "Keyword at positional argument 1 is required."
+        sys.exit(1)
+
+    keyword = sys.argv[1]
+
+    search_and_print(keyword)

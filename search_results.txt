@@ -1,0 +1,168 @@
+Searched for: algorithm
+5.196272 https://en.wikipedia.org/wiki/Algorithm
+4.57548 https://en.wikipedia.org/wiki/Algorithms_(journal)
+3.459447 https://en.wikipedia.org/wiki/Analysis_of_algorithms
+2.598136 https://en.wikipedia.org/wiki/Binary_search_algorithm
+2.3094542 https://en.wikipedia.org/wiki/Algorithms_for_calculating_variance
+0.43201318 https://en.wikipedia.org/wiki/Distributed_computing
+0.40960807 https://en.wikipedia.org/wiki/Checksum
+0.35960206 https://en.wikipedia.org/wiki/Computational_complexity_theory
+0.3422394 https://en.wikipedia.org/wiki/CPM
+0.33166274 https://en.wikipedia.org/wiki/Blowfish_(disambiguation)
+
+Searched for: aircraft
+7.3578424 https://en.wikipedia.org/wiki/Aircraft
+4.3243093 https://en.wikipedia.org/wiki/Aircraft_carrier
+4.3243093 https://en.wikipedia.org/wiki/Aircraft_hijacking
+4.3220644 https://en.wikipedia.org/wiki/Aircraft_spotting
+3.1371622 https://en.wikipedia.org/wiki/Self-propelled_anti-aircraft_weapon
+0.28003398 https://en.wikipedia.org/wiki/Beechcraft
+0.2733106 https://en.wikipedia.org/wiki/Amphibian_(disambiguation)
+0.26737422 https://en.wikipedia.org/wiki/Air_show
+0.2167031 https://en.wikipedia.org/wiki/North_American_B-25_Mitchell
+0.21059996 https://en.wikipedia.org/wiki/Carrier_battle_group
+
+Searched for: algorithms
+4.6189084 https://en.wikipedia.org/wiki/Algorithm
+4.57548 https://en.wikipedia.org/wiki/Algorithms_(journal)
+3.4594474 https://en.wikipedia.org/wiki/Analysis_of_algorithms
+2.598136 https://en.wikipedia.org/wiki/Algorithms_for_calculating_variance
+2.3094542 https://en.wikipedia.org/wiki/Binary_search_algorithm
+0.39890015 https://en.wikipedia.org/wiki/Checksum
+0.3599719 https://en.wikipedia.org/wiki/Distributed_computing
+0.35215506 https://en.wikipedia.org/wiki/Computational_complexity_theory
+0.2948113 https://en.wikipedia.org/wiki/Blowfish_(disambiguation)
+0.27829665 https://en.wikipedia.org/wiki/CPM
+
+Searched for: Alexander the Great
+5.065349 https://en.wikipedia.org/wiki/Alexander_the_Great
+2.3264484 https://en.wikipedia.org/wiki/Anthony_the_Great
+2.2636533 https://en.wikipedia.org/wiki/Alfred_the_Great
+2.2413635 https://en.wikipedia.org/wiki/Casimir_III_the_Great
+2.2214055 https://en.wikipedia.org/wiki/Constantine_the_Great
+1.5932277 https://en.wikipedia.org/wiki/Alexander
+0.9957673 https://en.wikipedia.org/wiki/Alexander_Jagiellon
+0.9957673 https://en.wikipedia.org/wiki/Alexander_Kerensky
+0.9957673 https://en.wikipedia.org/wiki/Alexander_Balas
+0.9957673 https://en.wikipedia.org/wiki/Alexander_technique
+
+Searched for: Great Alexander
+4.5181665 https://en.wikipedia.org/wiki/Alexander_the_Great
+2.9268823 https://en.wikipedia.org/wiki/Alexander
+1.8293014 https://en.wikipedia.org/wiki/Alexander_Jagiellon
+1.8293014 https://en.wikipedia.org/wiki/Alexander_Kerensky
+1.8293014 https://en.wikipedia.org/wiki/Alexander_Balas
+1.8293014 https://en.wikipedia.org/wiki/Alexander_technique
+1.4634411 https://en.wikipedia.org/wiki/Alexander_III_of_Russia
+1.4634411 https://en.wikipedia.org/wiki/Alexander_Graham_Bell
+1.4368796 https://en.wikipedia.org/wiki/Anthony_the_Great
+1.378105 https://en.wikipedia.org/wiki/Constantine_the_Great
+
+Searched for: Apple Inc.
+4.9721527 https://en.wikipedia.org/wiki/Apple_Inc.
+2.2103138 https://en.wikipedia.org/wiki/Applet
+1.9570862 https://en.wikipedia.org/wiki/Apple_II
+1.9570862 https://en.wikipedia.org/wiki/Apple_III
+1.7539842 https://en.wikipedia.org/wiki/Apple_II_series
+1.7268078 https://en.wikipedia.org/wiki/Apple_I
+1.6599147 https://en.wikipedia.org/wiki/Big_Apple
+1.2721934 https://en.wikipedia.org/wiki/Transport_in_Croatia
+1.2721934 https://en.wikipedia.org/wiki/Transport_in_Cuba
+1.2721934 https://en.wikipedia.org/wiki/Blindness_in_literature
+
+Searched for: Apple
+4.5732474 https://en.wikipedia.org/wiki/Applet
+4.2282443 https://en.wikipedia.org/wiki/Apple_Inc.
+4.2282443 https://en.wikipedia.org/wiki/Big_Apple
+4.1445074 https://en.wikipedia.org/wiki/Apple_II
+4.1445074 https://en.wikipedia.org/wiki/Apple_III
+3.6789212 https://en.wikipedia.org/wiki/Apple_II_series
+3.5728498 https://en.wikipedia.org/wiki/Apple_I
+0.080317035 https://en.wikipedia.org/wiki/Big_Brother_(Nineteen_Eighty-Four)
+0.073132895 https://en.wikipedia.org/wiki/Digital_video
+0.06182808 https://en.wikipedia.org/wiki/EasyWriter
+
+Searched for: A Clockwork Orange
+5.8481946 https://en.wikipedia.org/wiki/A_Clockwork_Orange
+2.0110788 https://en.wikipedia.org/wiki/A
+1.2718915 https://en.wikipedia.org/wiki/A_fortiori
+1.2718915 https://en.wikipedia.org/wiki/A_cappella
+1.1085567 https://en.wikipedia.org/wiki/Agent_Orange
+1.037026 https://en.wikipedia.org/wiki/A._E._van_Vogt
+1.037026 https://en.wikipedia.org/wiki/A_Little_Night_Music
+1.037026 https://en.wikipedia.org/wiki/A_Modest_Proposal
+1.0234373 https://en.wikipedia.org/wiki/A._A._Milne
+1.0175132 https://en.wikipedia.org/wiki/Death_of_a_Hero
+
+Searched for: The Amazing Spider-Man
+6.4987755 https://en.wikipedia.org/wiki/The_Amazing_Spider-Man
+1.265351 https://en.wikipedia.org/wiki/The_Amazing_Criswell
+1.0358937 https://en.wikipedia.org/wiki/Declaration_of_the_Rights_of_Man_and_of_the_Citizen
+0.8637256 https://en.wikipedia.org/wiki/Amazing_Grace
+0.6060007 https://en.wikipedia.org/wiki/Man_Booker_Prize
+0.5173709 https://en.wikipedia.org/wiki/Geography_of_the_Comoros
+0.5173709 https://en.wikipedia.org/wiki/André_the_Giant
+0.5173709 https://en.wikipedia.org/wiki/The_World_Factbook
+0.5173709 https://en.wikipedia.org/wiki/The_American_Prisoner
+0.5173709 https://en.wikipedia.org/wiki/Epistle_to_the_Galatians
+
+Searched for: Ada Lovelace
+5.602924 https://en.wikipedia.org/wiki/Ada_Lovelace
+2.2635643 https://en.wikipedia.org/wiki/Ada
+2.1610992 https://en.wikipedia.org/wiki/Aga
+1.930108 https://en.wikipedia.org/wiki/ASA
+1.930108 https://en.wikipedia.org/wiki/Aba
+1.7380942 https://en.wikipedia.org/wiki/Adam_Smith
+1.7380942 https://en.wikipedia.org/wiki/Adam_Weishaupt
+1.4072437 https://en.wikipedia.org/wiki/Asa
+1.350687 https://en.wikipedia.org/wiki/Ara_(constellation)
+1.3035709 https://en.wikipedia.org/wiki/Ad_hominem
+
+Searched for: A priori and a posteriori knowledge
+2.1995778 https://en.wikipedia.org/wiki/A
+1.5177808 https://en.wikipedia.org/wiki/A._A._Milne
+1.3283525 https://en.wikipedia.org/wiki/A_fortiori
+1.3283525 https://en.wikipedia.org/wiki/A_cappella
+1.1497936 https://en.wikipedia.org/wiki/A._E._van_Vogt
+1.1497936 https://en.wikipedia.org/wiki/A_Little_Night_Music
+1.1497936 https://en.wikipedia.org/wiki/A_Modest_Proposal
+1.0997889 https://en.wikipedia.org/wiki/A._E._Housman
+1.0732331 https://en.wikipedia.org/wiki/A._J._Ayer
+1.0732331 https://en.wikipedia.org/wiki/Chuck-a-luck
+
+Searched for: Applied ethics
+6.3380246 https://en.wikipedia.org/wiki/Applied_ethics
+3.4576514 https://en.wikipedia.org/wiki/Ethics
+2.1610322 https://en.wikipedia.org/wiki/Business_ethics
+0.2899994 https://en.wikipedia.org/wiki/Casuistry
+0.16325742 https://en.wikipedia.org/wiki/Ethical_egoism
+0.108588725 https://en.wikipedia.org/wiki/Cognitivism
+0.10209086 https://en.wikipedia.org/wiki/Conservation-restoration_of_cultural_heritage
+0.092311695 https://en.wikipedia.org/wiki/Civil_engineering
+0.09194902 https://en.wikipedia.org/wiki/Ahimsa
+0.089257345 https://en.wikipedia.org/wiki/David_D._Friedman
+
+Searched for: Applied statistics
+2.288862 https://en.wikipedia.org/wiki/Descriptive_statistics
+2.1610322 https://en.wikipedia.org/wiki/Demographic_statistics
+2.1610322 https://en.wikipedia.org/wiki/Business_statistics
+2.1501665 https://en.wikipedia.org/wiki/Engineering_statistics
+1.5845062 https://en.wikipedia.org/wiki/Applied_ethics
+1.5845062 https://en.wikipedia.org/wiki/Baseball_statistics
+0.1370507 https://en.wikipedia.org/wiki/Bayesian_probability
+0.08776335 https://en.wikipedia.org/wiki/Design_of_experiments
+0.07203716 https://en.wikipedia.org/wiki/Bliss_bibliographic_classification
+0.061746135 https://en.wikipedia.org/wiki/Basic_Role-Playing
+
+Searched for: Artificial Intelligence
+6.1450915 https://en.wikipedia.org/wiki/Artificial_intelligence
+4.301564 https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects
+0.3903693 https://en.wikipedia.org/wiki/Ai
+0.28172678 https://en.wikipedia.org/wiki/List_of_computer_scientists
+0.274143 https://en.wikipedia.org/wiki/AI-complete
+0.1967274 https://en.wikipedia.org/wiki/Dual
+0.18245912 https://en.wikipedia.org/wiki/Cyc
+0.17981172 https://en.wikipedia.org/wiki/Cognitive_science
+0.16664189 https://en.wikipedia.org/wiki/AM
+0.16405863 https://en.wikipedia.org/wiki/Android_(robot)
+

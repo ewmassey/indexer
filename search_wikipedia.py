@@ -9,7 +9,7 @@ import config
 def title_to_url(title):
     """Takes the article title and turns it into a wikipedia URL"""
     title = title.replace(' ', '_')
-    return config.WIKIPEDIA_URL + title
+    return config.WIKIPEDIA_URL + title.encode('utf-8')
 
 
 def search(keyword):
@@ -36,7 +36,6 @@ def search_and_print(keyword):
     """Used for calling the search function and printing the results."""
     print "Searched for:", keyword
     for score, url in search(keyword):
-
         print score, url
     print
 

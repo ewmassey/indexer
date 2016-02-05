@@ -49,3 +49,5 @@ To Run all the search cases mentioned in the PDF:
 ```
 python run_search_cases.py
 ```
+
+The results of the above script are included in the file "search_results.txt"

@@ -41,18 +41,17 @@ def _parse_page(page_element):
             for child in element:
                 rev_tag = _clean_tag(child.tag)
                 if rev_tag == 'text':
-                    ret['body'] = child.text
+                    ret['body'] = strip_wiki_links(child.text)
 
     assert ret['title'] is not None, 'title is none'
     assert ret['body'] is not None, 'body is none'
     return ret
 
 
-def wiki_to_plaintext(text):
-    """cleans up the wiki markup and converts it to plaintext."""
-    # TODO: Strip out Wiki Markup here.
-
-    return text
+def strip_wiki_links(text):
+    """cleans up the wiki links so the phrase matching will be better."""
+    pattern = re.compile(r'\[\[(?:[^|\]]*\|)?([^\]]+)\]\]')
+    return pattern.sub(r'\1', text)
 
 
 def parse_wikipedia_dump(path):
@@ -85,6 +84,4 @@ if __name__ == "__main__":
     dump_path = sys.argv[1]  # Path to the wikipedia dump.
 
     articles = parse_wikipedia_dump(dump_path)
-    print len(articles)
-
     index_articles(articles)

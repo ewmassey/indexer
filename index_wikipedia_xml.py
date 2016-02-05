@@ -34,7 +34,7 @@ def _parse_page(page_element):
     for element in page_element:
         tag = _clean_tag(element.tag)
         if tag == 'title':
-            ret['title'] = element.text.lower()
+            ret['title'] = element.text
         elif tag == 'revision':
             # Find the body of the article
             for child in element:
@@ -52,7 +52,7 @@ def _parse_page(page_element):
 
         link_match = re.match("#REDIRECT.*\[\[(.*)\]\]?.*", ret['body'])
         if link_match:
-            ret['redirect_to'] = link_match.group(1).lower()
+            ret['redirect_to'] = link_match.group(1)
     return ret
 
 
